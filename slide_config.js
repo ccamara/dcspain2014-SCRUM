@@ -1,9 +1,9 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Estrategia RWD en Drupal',
-    subtitle: '',
-    //eventTitle: 'Google I/O 2013',
+    title: 'SCRUM: una retrospectiva',
+    subtitle: 'Esto es un subítulo',
+    //eventTitle: 'DrupalCamp Valencia 2014',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
@@ -19,17 +19,11 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Cristina Chumillas',
-    company: 'Drupal Designer and Themer at Ymbra',
-    twitter: '@chumillas',
+    name: 'Carlos Cámara',
+    company: 'Drupal Dreamer and PO at Ymbra',
+    twitter: '@carlescamara',
     www: 'http://ymbra.com',
-    github: 'https://github.com/ckrina/'
-  }, {
-    name: 'Pako Garcia',
-    company: 'Veggie Drupal Themer and Designer at Ymbra',
-    twitter: '@pakmanlh',
-    www: 'http://ymbra.com',
-    github: 'http://github.com/pakmanlh'
+    github: 'https://github.com/ccamara/'
   }]
 };
 
